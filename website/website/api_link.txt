@@ -1,0 +1,1 @@
+api_gateway_address = "https://657tev8vxb.execute-api.eu-central-1.amazonaws.com/serverless_lambda_stage"
